@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
+#include <math.h>
 #define LF "\n"
 #define PI 3.1415
 
