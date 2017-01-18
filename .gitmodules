@@ -1,0 +1,3 @@
+[submodule "components/UnityDefinitions"]
+	path = components/UnityDefinitions
+	url = https://github.com/betonildo/UnityDefinitions.git
