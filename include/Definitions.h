@@ -8,5 +8,5 @@
 #include <math.h>
 #define LF "\n"
 #define PI 3.1415
-
+#define PRECISION 0.000001
 #endif /*DEFINITIONS_H*/

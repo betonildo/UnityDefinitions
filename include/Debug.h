@@ -5,8 +5,8 @@
 
 #ifdef DEBUG
     #define ASSERT(expression, message) \
-    if (!expression) { \
-        printf(#message); \
+    if (!(expression)) { \
+        printf((#message)); \
         exit(1); \
     } \
     else { }
